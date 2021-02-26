@@ -60,7 +60,7 @@ li:hover {
 }
 
 .main-img-container {
-	background-image: url('./img/sailboat.jpg');
+	background-image: url('../img/sailboat.jpg');
 	background-position: 0 -300px;
 	height: 800px;
 	background-size: 100%;
